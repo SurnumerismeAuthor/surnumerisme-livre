@@ -1,14 +1,42 @@
-/* Titres pour chapitres */
-.md-content h1 {
-  color: #1a237e; /* Indigo sombre */
-  border-bottom: 2px solid #ff9800; /* Orange */
-  padding-bottom: 8px;
+/* Changer la couleur principale en vert (#2E7D32) */
+:root {
+  --md-primary-fg-color: #2E7D32;
+  --md-primary-fg-color--light: #4CAF50;
+  --md-primary-fg-color--dark: #1B5E20;
 }
-/* Menu actif */
-.md-nav__link--active {
-  background-color: #e8eaf6; /* Bleu clair */
+
+/* Accent vert pour boutons et liens */
+:root {
+  --md-accent-fg-color: #4CAF50;
+  --md-accent-fg-color--transparent: #4CAF5050;
 }
-/* Fond pour contenu */
-.md-main__inner {
-  background-color: #f5f5f5; /* Gris léger */
+/* Ajustements pour mobiles */
+@media (max-width: 767px) {
+  /* Réduire la taille de la police */
+  .md-content {
+    font-size: 14px;
+  }
+
+  /* Simplifier la navigation */
+  .md-nav__item {
+    padding: 8px 0;
+  }
+
+  /* Ajuster les images (ex. cs_formula.png) */
+  img {
+    max-width: 100%;
+    height: auto;
+  }
+
+  /* Bouton "Retour en haut" plus visible */
+  .md-top {
+    bottom: 10px;
+    right: 10px;
+  }
+}
+
+/* Assurer une largeur maximale adaptée */
+.md-grid {
+  max-width: 100%;
+  margin: 0 auto;
 }
