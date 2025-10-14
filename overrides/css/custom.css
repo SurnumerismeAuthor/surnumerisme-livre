@@ -1,96 +1,14 @@
-/* Changer la couleur principale en vert (#2E7D32) */
-:root {
-  --md-primary-fg-color: #2E7D32;
-  --md-primary-fg-color--light: #4CAF50;
-  --md-primary-fg-color--dark: #1B5E20;
+/* Titres pour chapitres */
+.md-content h1 {
+  color: #1a237e; /* Indigo sombre */
+  border-bottom: 2px solid #ff9800; /* Orange */
+  padding-bottom: 8px;
 }
-
-/* Accent vert pour boutons et liens */
-:root {
-  --md-accent-fg-color: #4CAF50;
-  --md-accent-fg-color--transparent: #4CAF5050;
+/* Menu actif */
+.md-nav__link--active {
+  background-color: #e8eaf6; /* Bleu clair */
 }
-/* Ajustements pour mobiles */
-@media (max-width: 767px) {
-  /* Réduire la taille de la police */
-  .md-content {
-    font-size: 14px;
-  }
-
-  /* Simplifier la navigation */
-  .md-nav__item {
-    padding: 8px 0;
-  }
-
-  /* Ajuster les images (ex. cs_formula.png) */
-  img {
-    max-width: 100%;
-    height: auto;
-  }
-
-  /* Bouton "Retour en haut" plus visible */
-  .md-top {
-    bottom: 10px;
-    right: 10px;
-  }
-}
-
-/* Assurer une largeur maximale adaptée */
-.md-grid {
-  max-width: 100%;
-  margin: 0 auto;
-}
-/* Optimisation pour mobiles comme TECNO POP 9 */
-@media (max-width: 767px) {
-  .md-content {
-    font-size: 16px; /* Texte lisible sur 6,67" */
-  }
-  .md-nav__item {
-    padding: 6px 0; /* Navigation compacte */
-  }
-  img {
-    max-width: 100%; /* Images adaptées */
-    height: auto;
-  }
-  .md-top {
-    bottom: 10px;
-    right: 10px;
-    font-size: 20px; /* Bouton "haut" visible */
-  }
-}
-
-/* Largeur maximale adaptée */
-.md-grid {
-  max-width: 100%;
-  margin: 0 auto;
-}
-/* Optimisation pour mobiles comme TECNO POP 9 (720x1600px) */
-@media (max-width: 767px) {
-  .md-content {
-    font-size: 18px; /* Augmentation pour lisibilité */
-    line-height: 1.6; /* Espacement des lignes */
-  }
-  .md-nav__item {
-    padding: 8px 0; /* Espacement navigation */
-    font-size: 16px; /* Texte menu lisible */
-  }
-  img {
-    max-width: 100%;
-    height: auto;
-  }
-  .md-top {
-    bottom: 10px;
-    right: 10px;
-    font-size: 20px;
-  }
-  /* Ajuster les titres pour contraste */
-  h1, h2, h3 {
-    font-weight: bold;
-    color: #1B5E20; /* Vert foncé pour contraste */
-  }
-}
-
-.md-grid {
-  max-width: 100%;
-  margin: 0 auto;
+/* Fond pour contenu */
+.md-main__inner {
+  background-color: #f5f5f5; /* Gris léger */
 }
