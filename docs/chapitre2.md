@@ -15,25 +15,12 @@ La formule, rigoureusement calibrée, est :
 
 ![Formule CapitalSurn](images/cs_formula.png)
 
-- **D** : Niveau de diplôme (1–5, ex. : 2 pour master). <!-- NOTE : Préciser si inclure des certifications locales, ex. : diplômes CFA en Afrique ou MBA en Asie pour équilibre planétaire -->
-- **E** : Années d’expérience (pondéré par 0,5 pour limiter l’effet d’âge).
-- **R** : Contribution aux revenus (en %, max. 50).
-- **Taux effectif** : 2,37 % à 4,66 %.
-
-**Exemple** : Un cadre avec un doctorat (D=3), 15 ans d’expérience (E=15), et 30 % de contribution (R=30) dans une entreprise de 1 milliard USD génère :
+- **D** : Niveau de diplôme <!-- NOTE : Préciser si inclure des certifications locales, ex. : diplômes en Afrique -->
+- **P** : Années d’expérience 
+- **A** : Revenu Annuel de l'Entreprise 
 
 
-$$ \text{CapitalSurn} = \left( \frac{3 + (15 \times 0.5) + (30 \times 0.1)}{100} \right) \times 1\,000\,000\,000 = 135\,000\,000\,USD $$
-
-![Formule Capital Surnuméraire](images/cs_formula.png)
-
-
-
-- \( P \) : Capital de base.
-- \( \sqrt{P} + P \) : Prime racine plus capital.
-- \( \left( \sqrt{D} \right)^{\frac{2}{e}} \) : Facteur de croissance exponentielle (équivalent à \( D^{1/e} \)).
-- \( \frac{A}{100} \) : Ajustement en pourcentage.
-
+ <!-- NOTE : generer des statistiques avec des courbes et des diagrammes comparatif pour une multinationale comme Alibaba en Chine -->
 Le Surnumérisme assure un transfert fluide et continu des vecteurs de la prospérité. <!-- Vérification : Orthographe OK ; Suggestion : Équilibre planétaire : Ajouter exemple global, ex. : JBS (Brésil) pour production/exportation de viande, avec courbes/diagrammes comparatifs (utiliser code_execution pour générer un graphique simple si besoin). Note : Pour le Brésil, production viande 2024 : 10M tonnes (USDA) vs export 2M tonnes ; diagrammes : ligne croissante pour revenus vs barres pour CapitalSurn alloué -->
 
 ## La SurnBank : Gestion et Redistribution
@@ -44,15 +31,6 @@ La SurnBank alloue :
 - **70 %** : Projets entrepreneuriaux (ex. : startups vertes).  
 - **20 %** : Formation continue.  
 - **10 %** : Recherche fondamentale. <!-- Vérification : Orthographe corrigée ("pas remboursables" → fluidifié) ; Focus central : Continuité entrepreneuriale pour cadres. Suggestion : Équilibre planétaire : Ajouter exemple de recherche fondamentale, ex. : IA en Chine (Huawei) ou biotechnologie aux USA (Pfizer), en alternance avec Afrique pour diversité -->
-
-```mermaid
-graph TD
-  A[Grandes Sociétés] -->|Prélèvement| B[SurnBank]
-  B -->|70%| C[Startups Cadres]
-  B -->|20%| D[Formation]
-  B -->|10%| E[Recherche]
-
-Une IA open-source audite les projets, et un NDA éthique protège l’IP.
 
 ## Compensations et Apports Externes
 
