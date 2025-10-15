@@ -1,0 +1,18 @@
+name: Deploy Surnumérisme Site
+
+on:
+  schedule:
+    - cron: '0 18 * 10 7'  # 18h UTC = 19h WAT, 19 oct (mois 10, jour 7 dans semaine)
+  workflow_dispatch:      # Lancement manuel
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+      - run: pip install mkdocs mkdocs-material ghp-import
+      - run: mkdocs build
+      - run: ghp-import -n -p -m "Déploiement baptême 19 oct 2025" site
