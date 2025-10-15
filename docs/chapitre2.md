@@ -5,6 +5,7 @@
 Le CapitalSurn est versé directement sur un compte d’investissement au nom du cadre dans la SurnBank, qui mobilise des fonds d’investissement (FondSurn) supplémentaires au profit du CadreSurn ou d’un groupe de CadresSurn pour un placement productif. Les FondSurn ou CapitauxSurn ne sont jamais versés aux particuliers.
 
 Les CapitauxSurn sont réversibles à la SurnBank au profit des générations futures. Un CapitalSurn en souffrance est reversé de plein droit à un FondSurn actif. Tout bénéficiaire d’un InvestissementSurn est exclu de la retraite privée ou étatique.
+<<<<<<< HEAD
 Le CapitalSurn, prélèvement de 2–5 % sur les revenus nets des grandes sociétés, finance des projets productifs (SROI >1,5) pour favoriser la continuité entrepreneuriale des cadres. Son impact est mesuré par la création d'emplois, la réduction des inégalités (Gini), et la croissance durable. Voici une comparaison globale pour illustrer son rôle planétaire.
 Exemple : Siemens (Allemagne, Europe)
 Siemens, avec 5,8 milliards EUR de revenus nets en 2024 (rapport annuel Siemens, 2025), prélève 3,56 % (207 millions EUR) via CapitalSurn. Ces fonds financent la R&D en énergies renouvelables : une startup dirigée par un cadre expérimenté (D=4, E=20 ans) développe des turbines éoliennes intelligentes, alimentant 500 000 foyers allemands et exportant vers l’Afrique (SROI 1,8). Impact : 1 200 emplois créés (2025–2030), réduction du Gini allemand de 0,31 à 0,29 (projection DIW Berlin, 2025), et 15 % d’innovation en tech verte.
@@ -19,10 +20,14 @@ Impact Global : Le CapitalSurn unit continents, générant 3 700 emplois et -0,0
 
 Solution Surnumérienne
 La SurnBank (30 % entreprises, 30 % syndicats, 40 % gouvernements) alloue les fonds via IA open-source, avec audits blockchain. Exonérations fiscales (1,5 % au lieu de 3 % pour R&D verte) incitent les multinationales, alignant profits privés et progrès sociétal.
+=======
+
+>>>>>>> main
 Le CapitalSurn est le pilier opérationnel du Surnumérisme, transformant la productivité humaine en levier d’équité. Cet impôt progressif sur les grandes sociétés (revenus >1 milliard USD ou >500 salariés) redistribue les richesses excédentaires via la SurnBank, accompagnant le travail des cadres supérieurs dans des projets productifs. Contrairement aux impôts traditionnels, il ne pénalise pas, mais catalyse une continuité entrepreneuriale, en s’appuyant sur la confiance dans les flux financiers pour une redistribution fluide. <!-- Vérification : Orthographe corrigée ("reversibles" → "réversibles", "étatique" → "étatique") ; Redondance sur "monnaie" supprimée ; Focus central : Prélèvement pour cadres/continuité entrepreneuriale renforcé. Suggestion : Équilibre planétaire : Ajouter exemple global, ex. : Siemens (Europe) pour R&D, en alternance avec MTN (Afrique) sans dominance -->
 
 ## La Formule du CapitalSurn
 
+<<<<<<< HEAD
 La formule, rigoureusement calibrée, est :  
 <!-- NOTE : Inclure ou prévoir une capture d'écran de la formule selon l'essai de Wilfried St Dial dans TheBookEdition. Écrire lisiblement l'équation pour le rendu MkDocs -->
 
@@ -55,16 +60,56 @@ La SurnBank alloue ces fonds via IA open-source, avec audits blockchain. Exonér
 Conclusion
 Ces exemples montrent comment le CapitalSurn transforme les richesses en opportunités locales et globales.
  <!-- NOTE : generer des statistiques avec des courbes et des diagrammes comparatif pour une multinationale comme Alibaba en Chine -->
+=======
+La formule proposée, est :  
+<!-- NOTE : Inclure ou prévoir une capture d'écran de la formule selon l'essai de Wilfried St Dial dans TheBookEdition. Écrire lisiblement l'équation pour le rendu MkDocs -->
+<<<<<<< HEAD
+=======
+
+
+
+![Formule Capital Surnuméraire](Cs_formula.png)
+
+
+>>>>>>> 67658d86f58a72bd5595b885d1a37555e81f2a5c
+
+![Formule CapitalSurn](images/cs_formula.png)
+
+- **D** : Niveau de diplôme (1–5, ex. : 2 pour master). <!-- NOTE : Préciser si inclure des certifications locales, ex. : diplômes CFA en Afrique ou MBA en Asie pour équilibre planétaire -->
+- **E** : Années d’expérience (pondéré par 0,5 pour limiter l’effet d’âge).
+- **R** : Contribution aux revenus (en %, max. 50).
+- **Taux effectif** : 2,37 % à 4,66 %.
+
+**Exemple** : Un cadre avec un doctorat (D=3), 15 ans d’expérience (E=15), et 30 % de contribution (R=30) dans une entreprise de 1 milliard USD génère :
+
+
+$$ \text{CapitalSurn} = \left( \frac{3 + (15 \times 0.5) + (30 \times 0.1)}{100} \right) \times 1\,000\,000\,000 = 135\,000\,000\,USD $$
+
+![Formule Capital Surnuméraire](images/cs_formula.png)
+
+
+
+- \( P \) : Capital de base.
+- \( \sqrt{P} + P \) : Prime racine plus capital.
+- \( \left( \sqrt{D} \right)^{\frac{2}{e}} \) : Facteur de croissance exponentielle (équivalent à \( D^{1/e} \)).
+- \( \frac{A}{100} \) : Ajustement en pourcentage.
+
+>>>>>>> main
 Le Surnumérisme assure un transfert fluide et continu des vecteurs de la prospérité. <!-- Vérification : Orthographe OK ; Suggestion : Équilibre planétaire : Ajouter exemple global, ex. : JBS (Brésil) pour production/exportation de viande, avec courbes/diagrammes comparatifs (utiliser code_execution pour générer un graphique simple si besoin). Note : Pour le Brésil, production viande 2024 : 10M tonnes (USDA) vs export 2M tonnes ; diagrammes : ligne croissante pour revenus vs barres pour CapitalSurn alloué -->
 
 ## La SurnBank : Gestion et Redistribution
 
+<<<<<<< HEAD
 Les fonds sont versés à la SurnBank, une institution hybride (30 % entreprises, 25 % gouvernement, 30 % banques, 15 % ONG + privés). Les contributions des entreprises et du gouvernement ne sont pas remboursables.
+=======
+Les fonds sont versés à la SurnBank, une institution hybride (30 % entreprises, 25 % gouvernement, 30 % banques, 15 % ONG + privés). Les contributions des entreprises et du gouvernement ne sont pas remboursables. Les FondSurn représentent 15 % des contributions.
+>>>>>>> main
 
 La SurnBank alloue :  
 - **70 %** : Projets entrepreneuriaux (ex. : startups vertes).  
 - **20 %** : Formation continue.  
 - **10 %** : Recherche fondamentale. <!-- Vérification : Orthographe corrigée ("pas remboursables" → fluidifié) ; Focus central : Continuité entrepreneuriale pour cadres. Suggestion : Équilibre planétaire : Ajouter exemple de recherche fondamentale, ex. : IA en Chine (Huawei) ou biotechnologie aux USA (Pfizer), en alternance avec Afrique pour diversité -->
+<<<<<<< HEAD
 Projets Entrepreneuriaux en Asie
 
 Exemple : Plateforme e-Commerce Rural (Indonésie)
@@ -88,6 +133,17 @@ Comparaison
 Emplois : Asie : 800 ; Afrique : 3 000 ; Europe : 500.
 SROI : Asie : 2,0 ; Afrique : 1,7 ; Europe : 1,9.
 Impact Social : Réduction pauvreté (Asie), chômage (Afrique), émissions (Europe).
+=======
+
+```mermaid
+graph TD
+  A[Grandes Sociétés] -->|Prélèvement| B[SurnBank]
+  B -->|70%| C[Startups Cadres]
+  B -->|20%| D[Formation]
+  B -->|10%| E[Recherche]
+
+Une IA open-source audite les projets, et un NDA éthique protège l’IP.
+>>>>>>> main
 
 ## Compensations et Apports Externes
 
@@ -95,6 +151,7 @@ Les entreprises bénéficient d’exonérations fiscales sur les investissements
 - Prêts bancaires (5 % des portefeuilles).  
 - Subventions ONU (PNUD, OIT).  
 - Ponctions sur cryptos (0,1 % par transaction). <!-- Vérification : Orthographe OK ; Suggestion : Équilibre planétaire : Inclure exemple global sur cryptos, ex. : Bitcoin (USA/Europe) ou Ethereum (Asie), sans focus régional ; lien avec Bitcoin/Ethereum pour innovation financière -->
+<<<<<<< HEAD
 Prêts Bancaires
 
 Exemple : Prêt pour Startup Verte (Europe)
@@ -158,3 +215,9 @@ La SurnBank lance CryptoSurn avec exonérations fiscales (1,5 % pour projets ver
 ## Conclusion
 
 Le CapitalSurn transforme l’impôt en levier d’innovation, favorisant une continuité entrepreneuriale pour les cadres supérieurs. Le chapitre suivant explore la moralisation de la finance. <!-- Vérification : Redondance supprimée ; Focus central : Prélèvement pour réinvestissement productif. Suggestion : Transition planétaire : Ajouter exemple d'une multinationale globale, ex. : Alibaba (Asie) vs Exxon (USA), pour équilibre -->
+=======
+
+## Conclusion
+
+Le CapitalSurn transforme l’impôt en levier d’innovation, favorisant une continuité entrepreneuriale pour les cadres supérieurs. Le chapitre suivant explore la moralisation de la finance. <!-- Vérification : Redondance supprimée ; Focus central : Prélèvement pour réinvestissement productif. Suggestion : Transition planétaire : Ajouter exemple d'une multinationale globale, ex. : Alibaba (Asie) vs Exxon (USA), pour équilibre -->
+>>>>>>> main

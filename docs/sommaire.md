@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # Sommaire : Surnumérisme – Une Théorie économique Travailliste 
+=======
+# Sommaire : Surnumérisme – Une Théorie Médiane pour une Économie Humaine et Globale
+>>>>>>> main
 
 * [Accueil](index.md) : Appel universel.
 * [Sommaire : Notion du Surnumérisme](sommaire.md) : Le concept humain.

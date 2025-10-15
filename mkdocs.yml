@@ -1,5 +1,6 @@
 site_name: "SURNUMERISME : Une Théorie économique travailliste"
 docs_dir: docs
+
 theme:
   name: material
   palette:
@@ -7,12 +8,13 @@ theme:
       primary: teal
       accent: green
     - scheme: slate
-      primary: teal
-      accent: green
+      primary: indigo
+      accent: orange
   features:
     - navigation.instant
     - navigation.sections
     - content.tabs
+
 nav:
   - Accueil: index.md
   - Sommaire: sommaire.md
@@ -23,17 +25,4 @@ nav:
   - Chapitre 4: chapitre4.md
   - Chapitre 5: chapitre5.md
   - Chapitre 6: chapitre6.md
-  - Chapitre 7: chapitre7.md
-  - Chapitre 8: chapitre8.md
-  - Chapitre 9: chapitre9.md
-  - Chapitre 10: chapitre10.md
-  - Chapitre 11: chapitre11.md
-plugins:
-  - search
-  - mermaid2
-markdown_extensions:
-  - pymdownx.superfences  # Supprime custom_fences pour tester
-extra_javascript:
-  - https://unpkg.com/mermaid@10.4.0/dist/mermaid.esm.min.mjs
-extra_css:
-  - overrides/css/custom.css
+  - Chapitre 7:
