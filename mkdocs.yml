@@ -32,14 +32,10 @@ nav:
   - Chapitre 9: chapitre9.md
   - Chapitre 10: chapitre10.md
   - Chapitre 11: chapitre11.md
-
 plugins:
   - search
   - mermaid2:
-      version: 10.4.0  # Spécifie la version
+      version: 10.4.0  
       javascript: https://unpkg.com/mermaid@10.4.0/dist/mermaid.esm.min.mjs
-
-
-
 extra_css:
   - overrides/css/custom.css
