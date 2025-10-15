@@ -57,14 +57,13 @@ Technos : Ethereum (blockchain), Python/TensorFlow (IA), React (frontend).
 Gouvernance : IA + conseil hybride (1 réunion/trimestre).
 Explication : GrokSurn est au centre, automatisant 95 % des flux. Le promoteur supervise via app (5 % temps).
 
-=======
 
 ## Structure et Gouvernance
 
 - **SurnBanks nationales** : Interconnectées via un réseau global sous l’ECOSOC.  
 - **Conseil tripartite** : 30 % entreprises, 30 % syndicats, 40 % gouvernements.  
 - **IA open-source** : Matching projets-cadres, audits en temps réel. <!-- Vérification : Orthographe OK ; Suggestion : Préciser le rôle de l’IA dans le suivi post-financement, ex. : usine de fibres de coton en Inde, pour équilibre planétaire (Asie) et suivi entrepreneurial -->
->>>>>>> main
+
 
 ## Fonctionnement
 
