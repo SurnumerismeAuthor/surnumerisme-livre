@@ -20,7 +20,6 @@ L’espace commercial doit être moralisé et légiféré sévèrement afin d’
 
 La production détermine les prix, puis les flux financiers. Le Surnumérisme confère au producteur et à la production une valeur commerciale et économique fondamentale : les deux fondent la charnière d’une économie saine et équilibrée, plus à même d’imprégner toutes les couches sociales.
 
-<<<<<<< HEAD
 La finance mondiale, dominée par des dérivés (600 trillions USD, BRI 2025) et le trading à haute fréquence (HFT, 50 % des transactions boursières), génère quelques milliardaires et une classe bourgeoise minoritaire à l’extrême. Le Surnumérisme la réoriente pour accompagner le travail humain. 
 Documentation sur Équilibres et Stratégies Financières Planétaires
 Définition et Contexte
@@ -56,18 +55,15 @@ L’intégration de Bitcoin en Europe et d’Ethereum en Asie dans des stratégi
 <!-- Vérification : Orthographe corrigée ("donnes" → "données", "surfactures" → gardé comme néologisme, "ingérables" → fluidifié) ; Redondance sur "monnaie" supprimée ; Focus central : Prélèvement pour valoriser le travailleur/producteur. Suggestion : Équilibre planétaire : Ajouter exemple américain, ex. : Wall Street et la crise de 2008, pour illustrer la spéculation sans focus régional -->
 =======
 La finance mondiale, dominée par des dérivés (600 trillions USD, BRI 2025) et le trading à haute fréquence (HFT, 50 % des transactions boursières), génère quelques milliardaires et une classe bourgeoise minoritaire à l’extrême. Le Surnumérisme la réoriente pour accompagner le travail humain. <!-- Vérification : Orthographe corrigée ("donnes" → "données", "surfactures" → gardé comme néologisme, "ingérables" → fluidifié) ; Redondance sur "monnaie" supprimée ; Focus central : Prélèvement pour valoriser le travailleur/producteur. Suggestion : Équilibre planétaire : Ajouter exemple américain, ex. : Wall Street et la crise de 2008, pour illustrer la spéculation sans focus régional -->
->>>>>>> main
+
 
 ## L’État
 
 Le Surnumérisme, loin de prôner un libéralisme sauvage, exige par contre de l’État un rôle de régent :  
 - L’État doit être présent dans des domaines vitaux qui concourent à la souveraineté nationale (mines, énergie, grands travaux, environnement).  
 - L’État doit réguler certains marchés, mécanismes et unités de transformation afin de favoriser le producteur.  
-<<<<<<< HEAD
 - Surtout, l’État doit tenir en main toute l’**institution surnumérienne** : la perception des impôts surnuméraires, la SurnBank, et les instituts d'investissements dédiés au SystemSurn. <!-- Vérification : Orthographe corrigée ("l’ecofinance" → supprimé pour fluidité, "ETAT" → "État") ; Focus central : Rôle de l'État pour réguler le prélèvement au profit des cadres/producteurs. Suggestion : Équilibre planétaire : Ajouter exemple global, ex. : rôle de l'État chinois dans Huawei vs UE dans Siemens, pour régulation des marchés sans focus régional -->
-=======
 - Surtout, l’État doit tenir en main toute l’**institution surnumérienne** : la perception des impôts surnuméraires, la SurnBank, et les instituts d’investissement dédiés au SystèmeSurn. <!-- Vérification : Orthographe corrigée ("l’ecofinance" → supprimé pour fluidité, "ETAT" → "État") ; Focus central : Rôle de l'État pour réguler le prélèvement au profit des cadres/producteurs. Suggestion : Équilibre planétaire : Ajouter exemple global, ex. : rôle de l'État chinois dans Huawei vs UE dans Siemens, pour régulation des marchés sans focus régional -->
->>>>>>> main
 
 ## Le Travailleur
 

@@ -3,7 +3,7 @@
 ## Introduction : Une Institution pour l’Équité
 
 La SurnBank est le pivot institutionnel du Surnumérisme. Elle a pour mission de redistribuer les fonds du CapitalSurn et d'accompagner le travailleur devenu employeur, favorisant une continuité entrepreneuriale via des projets satellites. <!-- Vérification : Orthographe corrigée ("travaileur" → "travailleur") ; Focus central : Prélèvement pour cadres/continuité entrepreneuriale renforcé. Suggestion : Équilibre planétaire : Ajouter exemple global, ex. : prototype en Inde pour SurnBank dans l'agro-industrie, pour diversité sans focus régional -->
-<<<<<<< HEAD
+
 ## Structure et Gouvernance
 
 ### Architecture et Organigramme pour la SurnBank : Une Banque Entièrement Numérique et Automatisée
@@ -86,8 +86,6 @@ La SurnBank française redistribue 10 milliards EUR, finançant :
 
 ## Conclusion
 
-<<<<<<< HEAD
 La SurnBank incarne la gouvernance éthique, utilisant l'institution bancaire et numérique comme support pour décupler le travail et ses subsides, via une continuité entrepreneuriale des cadres supérieurs. Le chapitre suivant explore les apports financiers diversifiés. <!-- Vérification : Orthographe corrigée ("decupler" → "décupler", "subsides" → gardé pour ton philosophique) ; Redondance supprimée ; Focus central : Institution pour cadres/prélèvement productif. Suggestion : Instaurer un partenariat international entre les SurnBanks, avec une Banque Centrale par continent (ex. : Asie via AIIB, Europe via BCE, Amériques via FED, Afrique via BAD) pour équilibre planétaire -->
-=======
+
 La SurnBank incarne la gouvernance éthique, utilisant l'institution bancaire comme support pour décupler le travail et ses subsides, via une continuité entrepreneuriale des cadres supérieurs. Le chapitre suivant explore les apports financiers diversifiés. <!-- Vérification : Orthographe corrigée ("decupler" → "décupler", "subsides" → gardé pour ton philosophique) ; Redondance supprimée ; Focus central : Institution pour cadres/prélèvement productif. Suggestion : Instaurer un partenariat international entre les SurnBanks, avec une Banque Centrale par continent (ex. : Asie via AIIB, Europe via BCE, Amériques via FED, Afrique via BAD) pour équilibre planétaire -->
->>>>>>> main

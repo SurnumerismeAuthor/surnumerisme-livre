@@ -18,11 +18,28 @@ theme:
 nav:
   - Accueil: index.md
   - Sommaire: sommaire.md
-  - Introduction: introduction.md
+  - Introduction: Introduction.md  # Ajouté avec casse correcte
+  - Formule Cs: Formule Cs.md     # Ajouté
+  - Mise à jour: Mise à jour.md   # Ajouté
   - Chapitre 1: chapitre1.md
   - Chapitre 2: chapitre2.md
   - Chapitre 3: chapitre3.md
   - Chapitre 4: chapitre4.md
   - Chapitre 5: chapitre5.md
   - Chapitre 6: chapitre6.md
-  - Chapitre 7:
+  - Chapitre 7: chapitre7.md
+  - Chapitre 8: chapitre8.md
+  - Chapitre 9: chapitre9.md
+  - Chapitre 10: chapitre10.md
+  - Chapitre 11: chapitre11.md
+
+plugins:
+  - search
+  - mermaid2:
+      version: 10.4.0  # Spécifie la version
+      javascript: https://unpkg.com/mermaid@10.4.0/dist/mermaid.esm.min.mjs
+
+
+
+extra_css:
+  - overrides/css/custom.css
