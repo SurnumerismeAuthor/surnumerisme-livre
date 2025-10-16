@@ -19,8 +19,6 @@ nav:
   - Accueil: index.md
   - Sommaire: sommaire.md
   - Introduction: Introduction.md  # Ajouté avec casse correcte
-  - Formule Cs: Formule Cs.md     # Ajouté
-  - Mise à jour: Mise à jour.md   # Ajouté
   - Chapitre 1: chapitre1.md
   - Chapitre 2: chapitre2.md
   - Chapitre 3: chapitre3.md
