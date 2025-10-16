@@ -7,12 +7,12 @@ on:
 
 jobs:
   deploy:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-latest  # Environnement cloud, pas ton PC
     steps:
       - uses: actions/checkout@v3
       - uses: actions/setup-python@v4
         with:
-          python-version: '3.x'
+          python-version: '3.11'  # Version spécifique
       - run: pip install --upgrade pip
       - run: pip install mkdocs mkdocs-material ghp-import
       - run: mkdocs build
