@@ -1,7 +1,8 @@
-# Sommaire : Surnumérisme – Une Théorie économique Travailliste 
+# Sommaire : Surnumérisme – Une Théorie Médiane pour une Économie Humaine et Globale
+
 * [Accueil](index.md) : Appel universel.
 * [Sommaire : Notion du Surnumérisme](sommaire.md) : Le concept humain.
-* [Introduction: Introduction au Surnumérisme](Introduction.md) : Le concept du Travailleur.
+* [Introduction: Introduction au Surnumérisme](introduction.md) : Le concept du Travailleur.
 * [Chapitre 1 : La Monnaie, Numéraire et Fondement du Surnumérisme](chapitre1.md) : La monnaie comme création humaine et socle du Surnumérisme.
 * [Chapitre 2 : Le CapitalSurn – Formule et Mécanismes de Prélèvement](chapitre2.md) : Le prélèvement fiscal innovant sur les grandes sociétés.
 * [Chapitre 3 : Moraliser la Finance – Éliminer la Spéculation, Valoriser la Production](chapitre3.md) : Refonte de la finance pour recentrer sur la production réelle.
