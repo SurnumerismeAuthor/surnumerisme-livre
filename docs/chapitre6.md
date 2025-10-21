@@ -1,3 +1,6 @@
+
+title: Chapitre 6
+layout: page
 # Chapitre 6 : Contre-Mesures aux Risques – Équilibre Offre-Demande et Formation
 
 ## Introduction : Anticiper les Déséquilibres

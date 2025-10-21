@@ -1,3 +1,6 @@
+
+title: Chapitre 7
+layout: page
 # Chapitre 7 : Implémentation Nationale – Pilotes en Europe et Asie
 
 ## Introduction : Tests Locaux

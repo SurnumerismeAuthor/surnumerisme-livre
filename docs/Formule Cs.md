@@ -1,3 +1,6 @@
+
+title: Formule Cs
+layout: page
 La formule du Cs est $`Cs = \left( \sqrt{D} \right)^{\frac{2}{e}} \times \left( \sqrt{P} + P \right) \times \frac{A}{100}`$.
 
 _____

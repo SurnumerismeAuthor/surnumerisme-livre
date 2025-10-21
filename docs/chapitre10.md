@@ -1,3 +1,6 @@
+
+title: Chapitre 10
+layout: page
 # Chapitre 10 : Un Appel Universel – Publier en Open Source pour l’Humanité
 
 ## Introduction : Partager la Vision
