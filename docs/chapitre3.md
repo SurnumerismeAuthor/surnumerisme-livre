@@ -1,5 +1,4 @@
-title: Chapitre 3
-layout: page
+
 # Chapitre 3 : Moraliser la Finance – Éliminer la Spéculation, Valoriser la Production et le Travailleur
 
 ## Introduction : Une Finance Détournée

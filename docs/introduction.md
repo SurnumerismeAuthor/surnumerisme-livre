@@ -1,6 +1,4 @@
 
-title: introduction
-layout: page
 ## CONCEPT PHILOSOPHIQUE
 
 ### La bulle est commune et vitale

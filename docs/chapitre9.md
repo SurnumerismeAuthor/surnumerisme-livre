@@ -1,5 +1,4 @@
-title: Chapitre 9
-layout: page
+
 
 # Chapitre 9 : Défis et Critiques – Réponses aux Sceptiques
 

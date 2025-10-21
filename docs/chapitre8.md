@@ -1,6 +1,4 @@
 
-title: Chapitre 8
-layout: page
 # Chapitre 8 : Applicabilité Planétaire – Vers un Modèle Hybride Global
 
 ## Introduction : Une Vision Globale

@@ -1,6 +1,4 @@
 
-title: Chapitre 4
-layout: page
 # Chapitre 4 : La SurnBank – Architecture et Gouvernance
 
 ## Introduction : Une Institution pour l’Équité

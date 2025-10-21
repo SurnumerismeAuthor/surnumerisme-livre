@@ -1,5 +1,4 @@
-title: Chapitre 2
-layout: page
+
 # Chapitre 2 : Le CapitalSurn – Formule et Mécanismes de Prélèvement
 
 ## Introduction : Un Impôt au Service de l’Innovation

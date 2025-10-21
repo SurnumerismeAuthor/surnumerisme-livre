@@ -1,6 +1,4 @@
 
-title: Chapitre 11
-layout: page
 # Chapitre 11 : Annexes – Formules et Simulations
 
 ## Introduction : Outils Analytiques

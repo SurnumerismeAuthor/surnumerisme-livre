@@ -1,6 +1,4 @@
 
-title: Chapitre 1
-layout: page
 # Chapitre 1 : La Monnaie, Numéraire et Fondement du Surnumérisme
 
 ## Introduction : La Monnaie comme Création Humaine Suprême

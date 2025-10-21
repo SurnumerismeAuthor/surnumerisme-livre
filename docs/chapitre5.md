@@ -1,6 +1,4 @@
 
-title: Chapitre 5
-layout: page
 # Chapitre 5 : Apports Financiers Diversifiés – De l’International au Numérique
 
 ## Introduction : Amplifier le CapitalSurn
